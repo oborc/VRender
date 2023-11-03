@@ -119,12 +119,13 @@ st.defaultLayer.add(sy);
 # 生态
 
 | 项目 | 介绍 |
-| ---- | ---- |
-
+| - | - |
 | [VChart](https://visactor.io/vchart) | 基于 [VisActor/VRender](https://visactor.io/vrender) 封装的图表库。 |
 | [VGrammar](https://visactor.io/vgrammar) | 基于 [VisActor/VRender](https://visactor.io/vrender) 封装的语法库。 |
 | [React 组件库](https://visactor.io/react-vrender) | 基于 [VisActor/VChart](https://visactor.io/vrender) 的 React 图表 组件库。 |
 | [智能生成组件](https://visactor.io/ai-vrender) | 基于 AI 的智能图表生成组件 |
+
+
 
 # 参与贡献
 
